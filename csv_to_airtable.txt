@@ -1,0 +1,7 @@
+source: csv
+target: airtable
+
+file: test_0.csv
+api_key: 
+base_id: 
+table_name: test
